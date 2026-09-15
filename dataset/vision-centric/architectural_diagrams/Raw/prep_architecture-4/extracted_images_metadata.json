@@ -1,0 +1,24 @@
+[
+    {
+        "page_id": 1,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-4/extracted_images/p1_img0_0.jpg",
+        "coordinates": [
+            797,
+            561,
+            2480,
+            1838
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-4/extracted_images/p2_img0_0.jpg",
+        "coordinates": [
+            652,
+            1203,
+            2672,
+            2510
+        ]
+    }
+]

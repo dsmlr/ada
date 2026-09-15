@@ -1,0 +1,134 @@
+[
+    {
+        "page_id": 1,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p1_img0_0.jpg",
+        "coordinates": [
+            549,
+            1007,
+            2839,
+            1313
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p1_img1_0.jpg",
+        "coordinates": [
+            549,
+            1313,
+            2839,
+            1618
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p1_img2_0.jpg",
+        "coordinates": [
+            549,
+            1618,
+            2839,
+            1924
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p1_img3_0.jpg",
+        "coordinates": [
+            549,
+            1924,
+            2839,
+            2230
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p1_img4_0.jpg",
+        "coordinates": [
+            549,
+            2230,
+            2839,
+            2535
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img0_0.jpg",
+        "coordinates": [
+            503,
+            465,
+            2884,
+            775
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img1_0.jpg",
+        "coordinates": [
+            503,
+            775,
+            2884,
+            1084
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img2_0.jpg",
+        "coordinates": [
+            503,
+            1084,
+            2884,
+            1393
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img3_0.jpg",
+        "coordinates": [
+            503,
+            1393,
+            2884,
+            1703
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img4_0.jpg",
+        "coordinates": [
+            453,
+            2514,
+            2934,
+            3038
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "5_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img5_0.jpg",
+        "coordinates": [
+            453,
+            3038,
+            2934,
+            3561
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "6_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-1/extracted_images/p2_img6_0.jpg",
+        "coordinates": [
+            453,
+            3561,
+            2934,
+            4084
+        ]
+    }
+]

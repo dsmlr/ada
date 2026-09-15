@@ -1,0 +1,178 @@
+[
+    {
+        "page_id": 1,
+        "filename": "page_1_clean.jpg",
+        "full_text": "1. การ ติด ตั้ง โปรแกรม ( Installation )\nโปรแกรม PDFSigner คือ โปรแกรม สำหรับ ใช้ ใน การ ลง ลายมือชื่อ ดิจิทัล เอกสาร แนบ ( PDF ) ซึ่ง เป็น เอกสาร ประกอบ การ พิจารณา ใน การ ยื่น คำร้องขอ รับ ใบ อนุญาต หรือ หนังสือ รับรอง ต่างๆ ซึ่ง ผู้ ประกอบ การ จะ ต้อง ทำ การ ลง ลายมือชื่อ ดิจิทัล เพื่อ เป็นการ รับรอง สำเนา ถูก ต้อง ของ เอกสาร นั้น ๆ\n2. การ ติด ตั้ง โปรแกรม ( Installation )\n1. เข้า สู่ หน้า สํา ห รับ ดาวน์โหลด โปรแกรม\nระบบ ทดสอบ ( Test system ) http://testportal.dpim.go.th/publish/pdfsign ระบบ จริง ( Production ) http://portal.dpim.go.th/publish/pdfsign/index.html\n2. คลิก ปุ่ม “ Install ” ดัง รูป\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 1",
+        "lines": [
+            "1. การ ติด ตั้ง โปรแกรม ( Installation )",
+            "โปรแกรม PDFSigner คือ โปรแกรม สำหรับ ใช้ ใน การ ลง ลายมือชื่อ ดิจิทัล เอกสาร แนบ ( PDF ) ซึ่ง เป็น เอกสาร ประกอบ การ พิจารณา ใน การ ยื่น คำร้องขอ รับ ใบ อนุญาต หรือ หนังสือ รับรอง ต่างๆ ซึ่ง ผู้ ประกอบ การ จะ ต้อง ทำ การ ลง ลายมือชื่อ ดิจิทัล เพื่อ เป็นการ รับรอง สำเนา ถูก ต้อง ของ เอกสาร นั้น ๆ",
+            "2. การ ติด ตั้ง โปรแกรม ( Installation )",
+            "1. เข้า สู่ หน้า สํา ห รับ ดาวน์โหลด โปรแกรม",
+            "ระบบ ทดสอบ ( Test system ) http://testportal.dpim.go.th/publish/pdfsign ระบบ จริง ( Production ) http://portal.dpim.go.th/publish/pdfsign/index.html",
+            "2. คลิก ปุ่ม “ Install ” ดัง รูป",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 1"
+        ]
+    },
+    {
+        "page_id": 2,
+        "filename": "page_2_clean.jpg",
+        "full_text": "จะ ปรากฏ หน้า จอ Popup ให้ คลิก ปุ่ม “ Save File ” เพื่อ Save ไฟล์ ไว้ ใน เครื่อง ของ ผู้ ใช้ งาน ก่อน\n3. เมื่อ ดาวน์ โหวด ไฟล์ เรียบร้อย แล้ว เริ่ม การ ติด ตั้ง โดย คลิก ที่ ไฟล์ Setup.exe ดัง รูป\n4. ใน กรณี ที่ ใช้ Windows 10 เครื่อง อาจ จะ ขึ้น หน้า จอ Windows Protected your PC ดัง รูป ให้ คลิก ที่\n“ More Info ”\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 2",
+        "lines": [
+            "จะ ปรากฏ หน้า จอ Popup ให้ คลิก ปุ่ม “ Save File ” เพื่อ Save ไฟล์ ไว้ ใน เครื่อง ของ ผู้ ใช้ งาน ก่อน",
+            "3. เมื่อ ดาวน์ โหวด ไฟล์ เรียบร้อย แล้ว เริ่ม การ ติด ตั้ง โดย คลิก ที่ ไฟล์ Setup.exe ดัง รูป",
+            "4. ใน กรณี ที่ ใช้ Windows 10 เครื่อง อาจ จะ ขึ้น หน้า จอ Windows Protected your PC ดัง รูป ให้ คลิก ที่",
+            "“ More Info ”",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 2"
+        ]
+    },
+    {
+        "page_id": 3,
+        "filename": "page_3_clean.jpg",
+        "full_text": "จาก นั้น คลิก “ Run anyway\n\"\n5. จาก เข้า สู่ หน้า จอ เพื่อ ให้ ยืนยัน การ ติด ตั้ง โปรแกรม อีก ครั้ง ให้ คลิก “ Install\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\n\"\nหน้า 3",
+        "lines": [
+            "จาก นั้น คลิก “ Run anyway",
+            "\"",
+            "5. จาก เข้า สู่ หน้า จอ เพื่อ ให้ ยืนยัน การ ติด ตั้ง โปรแกรม อีก ครั้ง ให้ คลิก “ Install",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "\"",
+            "หน้า 3"
+        ]
+    },
+    {
+        "page_id": 4,
+        "filename": "page_4_clean.jpg",
+        "full_text": "6. เมื่อ ทำการ ติด ตั้ง โปรแกรม เสร็จ เรียบร้อย แล้ว จะ ปรากฏ ICON ที่ หน้า Desktop ดัง รูป\n7. เมื่อ ทำการ Double Click Shortcut “ PDFSigner ” จะ เปิด โปรแกรม PDFSigner ดัง รูป\nหมายเหตุ โปรแกรม PDFSigner นี้ ก่อน การ ใช้ งาน จะ ต้อง ทำการ ตั้ง ค่า Profile สำหรับ การ ใช้ งาน ก่อน จึง จะ สามารถ ทำการ Sign เอกสาร PDF ได้ ซึ่ง วิธี การ ตั้ง ค่า จะ อธิบาย ใน หัวข้อ ต่อ ไป\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 4",
+        "lines": [
+            "6. เมื่อ ทำการ ติด ตั้ง โปรแกรม เสร็จ เรียบร้อย แล้ว จะ ปรากฏ ICON ที่ หน้า Desktop ดัง รูป",
+            "7. เมื่อ ทำการ Double Click Shortcut “ PDFSigner ” จะ เปิด โปรแกรม PDFSigner ดัง รูป",
+            "หมายเหตุ โปรแกรม PDFSigner นี้ ก่อน การ ใช้ งาน จะ ต้อง ทำการ ตั้ง ค่า Profile สำหรับ การ ใช้ งาน ก่อน จึง จะ สามารถ ทำการ Sign เอกสาร PDF ได้ ซึ่ง วิธี การ ตั้ง ค่า จะ อธิบาย ใน หัวข้อ ต่อ ไป",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 4"
+        ]
+    },
+    {
+        "page_id": 5,
+        "filename": "page_5_clean.jpg",
+        "full_text": "3. การ ใช้ งาน โปรแกรม PDFSigner\nการ กำหนด ค่า ( Configuration ) และ การ เชื่อม ต่อ ( Integration ) Time Stamp Server\nสำหรับ โปรแกรม PDFSigner\nการ สร้าง Profile\n1. เปิด โปรแกรม PDFSigner แล้ว คลิก ที่ “ Setting ” ดัง รูป\n2. ที่ ช่อง Create Profile ให้ ป้อน ชื่อ Profile ที่ ต้องการ สร้าง จาก นั้น คลิก ปุ่ม “ Create ” และ ตอบ OK\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 5",
+        "lines": [
+            "3. การ ใช้ งาน โปรแกรม PDFSigner",
+            "การ กำหนด ค่า ( Configuration ) และ การ เชื่อม ต่อ ( Integration ) Time Stamp Server",
+            "สำหรับ โปรแกรม PDFSigner",
+            "การ สร้าง Profile",
+            "1. เปิด โปรแกรม PDFSigner แล้ว คลิก ที่ “ Setting ” ดัง รูป",
+            "2. ที่ ช่อง Create Profile ให้ ป้อน ชื่อ Profile ที่ ต้องการ สร้าง จาก นั้น คลิก ปุ่ม “ Create ” และ ตอบ OK",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 5"
+        ]
+    },
+    {
+        "page_id": 6,
+        "filename": "page_6_clean.jpg",
+        "full_text": "3. ตรง ส่วน Position ให้ เลือก “ Basic ” และ เลือก ตัว เลือก “ BottomRight ”\nจาก นั้น ตรง ส่วน ของ Image คลิก “ Add image ” เลือก รูป ลาย เซ็น ที่ ต้องการ และ เลือก ตัว เลือก “ Image with no text ” ดัง รูป\nเมื่อ ทำการ ตั้ง ค่า ต่างๆ ครบถ้วน ตาม รูป แล้ว คลิก “ Confirm ” เพื่อ บันทึก การ ตั้ง ค่า Profile\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 6",
+        "lines": [
+            "3. ตรง ส่วน Position ให้ เลือก “ Basic ” และ เลือก ตัว เลือก “ BottomRight ”",
+            "จาก นั้น ตรง ส่วน ของ Image คลิก “ Add image ” เลือก รูป ลาย เซ็น ที่ ต้องการ และ เลือก ตัว เลือก “ Image with no text ” ดัง รูป",
+            "เมื่อ ทำการ ตั้ง ค่า ต่างๆ ครบถ้วน ตาม รูป แล้ว คลิก “ Confirm ” เพื่อ บันทึก การ ตั้ง ค่า Profile",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 6"
+        ]
+    },
+    {
+        "page_id": 7,
+        "filename": "page_7_clean.jpg",
+        "full_text": "4. เมื่อ บันทึก Profile เรียบร้อย แล้ว ที่ หน้า จอ โปรแกรม จะ ปรากฏ Profile ให้ เลือก ดัง รูป\nการ ตั้ง ค่า เพื่อ เชื่อม ต่อ Time Stamp Server\n1. เปิด โปรแกรม PDFSigner แล้ว คลิก ที่ “ Timestamp\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 7",
+        "lines": [
+            "4. เมื่อ บันทึก Profile เรียบร้อย แล้ว ที่ หน้า จอ โปรแกรม จะ ปรากฏ Profile ให้ เลือก ดัง รูป",
+            "การ ตั้ง ค่า เพื่อ เชื่อม ต่อ Time Stamp Server",
+            "1. เปิด โปรแกรม PDFSigner แล้ว คลิก ที่ “ Timestamp",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 7"
+        ]
+    },
+    {
+        "page_id": 8,
+        "filename": "page_8_clean.jpg",
+        "full_text": "2. จาก นั้น ที่ หน้า จอ Timestamp Setting ให้ ทำการ ตั้ง ค่า TimeStamp ตาม ต้องการ\nหมายเหตุ ระบบ จำ ทำการ ตั้ง ค่า TimeStamp มา ให้ อัตโนมัติ เพื่อ ป้องกัน การ ตั้ง ค่า หรือ ระบุ URL ของ Time Stamp Server ไม่ ถูก ต้อง อย่างไรก็ตาม ผู้ ใช้ งาน สามารถ แก้ไข การ ตั้ง ค่า เพิ่มเติม ได้\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 8",
+        "lines": [
+            "2. จาก นั้น ที่ หน้า จอ Timestamp Setting ให้ ทำการ ตั้ง ค่า TimeStamp ตาม ต้องการ",
+            "หมายเหตุ ระบบ จำ ทำการ ตั้ง ค่า TimeStamp มา ให้ อัตโนมัติ เพื่อ ป้องกัน การ ตั้ง ค่า หรือ ระบุ URL ของ Time Stamp Server ไม่ ถูก ต้อง อย่างไรก็ตาม ผู้ ใช้ งาน สามารถ แก้ไข การ ตั้ง ค่า เพิ่มเติม ได้",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 8"
+        ]
+    },
+    {
+        "page_id": 9,
+        "filename": "page_9_clean.jpg",
+        "full_text": "การ ตั้ง ค่า Certificate\n1. ขณะ อยู่ ที่ โปรแกรม PDFSigner แล้ว คลิก ที่ “ Select the Digital Certificate ” ดัง รูป\n2. จาก นั้น ทํา การ เลือก Certificate ที่ ต้องการ ใช้ งาน ซึ่ง สามารถ เลือก ได้ สอง รูป แบบ คือ กรณี เลือก ใช้ Certificate แบบ ไฟล์\n• คลิก เลือก “ PEX digital certificate file ”\nเลือก Browser ไป ยัง ไฟล์ Certificate และ ป้อน รหัส ผ่าน ของ ให้ ถูก ต้อง คลิก “ Confirm ” เพื่อ เป็นการ บันทึก การ ตั้ง ค่า\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 9",
+        "lines": [
+            "การ ตั้ง ค่า Certificate",
+            "1. ขณะ อยู่ ที่ โปรแกรม PDFSigner แล้ว คลิก ที่ “ Select the Digital Certificate ” ดัง รูป",
+            "2. จาก นั้น ทํา การ เลือก Certificate ที่ ต้องการ ใช้ งาน ซึ่ง สามารถ เลือก ได้ สอง รูป แบบ คือ กรณี เลือก ใช้ Certificate แบบ ไฟล์",
+            "• คลิก เลือก “ PEX digital certificate file ”",
+            "เลือก Browser ไป ยัง ไฟล์ Certificate และ ป้อน รหัส ผ่าน ของ ให้ ถูก ต้อง คลิก “ Confirm ” เพื่อ เป็นการ บันทึก การ ตั้ง ค่า",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 9"
+        ]
+    },
+    {
+        "page_id": 10,
+        "filename": "page_10_clean.jpg",
+        "full_text": "กรณี เลือก ใช้ Certificate แบบ ที่ เป็น Token\n• เสียบ Token เข้า กับ เครื่อง คอมพิวเตอร์\nเลือก Windows Certificate Store\n• จาก นั้น เลือก Certificate จาก Token ซึ่ง จะ ปรากฏ ให้ เลือก หลังจาก ที่ ได้ ทำการ\nเสียบ Token เข้า กับ เครื่อง คอมพิวเตอร์ แล้ว\n• จาก นั้น คลิก “ Confirm \" เพื่อ บันทึก\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 10",
+        "lines": [
+            "กรณี เลือก ใช้ Certificate แบบ ที่ เป็น Token",
+            "• เสียบ Token เข้า กับ เครื่อง คอมพิวเตอร์",
+            "เลือก Windows Certificate Store",
+            "• จาก นั้น เลือก Certificate จาก Token ซึ่ง จะ ปรากฏ ให้ เลือก หลังจาก ที่ ได้ ทำการ",
+            "เสียบ Token เข้า กับ เครื่อง คอมพิวเตอร์ แล้ว",
+            "• จาก นั้น คลิก “ Confirm \" เพื่อ บันทึก",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 10"
+        ]
+    },
+    {
+        "page_id": 11,
+        "filename": "page_11_clean.jpg",
+        "full_text": "การ Sign เอกสาร แนบ PDF\nการ Sign PDF ครั้ง ละ หนึ่ง ไฟล์\n1. เข้า สู่ โปรแกรม PDFSigner จาก นั้น ทำ ตาม ขั้น ตอน ดังนี้\nเลือก Profile ที่ทำการ สร้าง และ ตั้ง ค่า ไว้ เลือก รูป แบบ การ Sign เป็น “ Select Single file ”\nปุ่ม “ Select ... ” ให้ Brows ไป ยัง ไฟล์ PDF ที่ ต้องการ Sign\n• ปุ่ม “ Save ... ” เป็นการ ตั้ง ค่า ชื่อ ไฟล์ PDF หลังจาก ที่ทำการ Sign เรียบร้อย แล้ว คลิก ปุ่ม “ Confirm ” เพื่อ ทำการ Sing เอกสาร\nคลิก Yes เพื่อ ยืนยัน\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 11",
+        "lines": [
+            "การ Sign เอกสาร แนบ PDF",
+            "การ Sign PDF ครั้ง ละ หนึ่ง ไฟล์",
+            "1. เข้า สู่ โปรแกรม PDFSigner จาก นั้น ทำ ตาม ขั้น ตอน ดังนี้",
+            "เลือก Profile ที่ทำการ สร้าง และ ตั้ง ค่า ไว้ เลือก รูป แบบ การ Sign เป็น “ Select Single file ”",
+            "ปุ่ม “ Select ... ” ให้ Brows ไป ยัง ไฟล์ PDF ที่ ต้องการ Sign",
+            "• ปุ่ม “ Save ... ” เป็นการ ตั้ง ค่า ชื่อ ไฟล์ PDF หลังจาก ที่ทำการ Sign เรียบร้อย แล้ว คลิก ปุ่ม “ Confirm ” เพื่อ ทำการ Sing เอกสาร",
+            "คลิก Yes เพื่อ ยืนยัน",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 11"
+        ]
+    },
+    {
+        "page_id": 12,
+        "filename": "page_12_clean.jpg",
+        "full_text": "2. จาก นั้น ระบบ จะ Popup ให้ ทำการ ป้อน รหัส ผ่าน Token ดัง รูป\nเมื่อ ป้อน รหัส ผ่าน ถูก ต้อง ระบบ จะ แจ้ง ผล การ Sign ดัง รูป\nการ Sign PDF แบบ หลาย ไฟล์ ใน ครั้ง เดียว 1. เข้า สู่ โปรแกรม PDFSigner จาก ทำ ตาม ขั้น ตอน ดังนี้\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 12",
+        "lines": [
+            "2. จาก นั้น ระบบ จะ Popup ให้ ทำการ ป้อน รหัส ผ่าน Token ดัง รูป",
+            "เมื่อ ป้อน รหัส ผ่าน ถูก ต้อง ระบบ จะ แจ้ง ผล การ Sign ดัง รูป",
+            "การ Sign PDF แบบ หลาย ไฟล์ ใน ครั้ง เดียว 1. เข้า สู่ โปรแกรม PDFSigner จาก ทำ ตาม ขั้น ตอน ดังนี้",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 12"
+        ]
+    },
+    {
+        "page_id": 13,
+        "filename": "page_13_clean.jpg",
+        "full_text": "• เลือก Profile ที่ ทํา การ สร้าง และ ตั้ง ค่า ไว้\nพ\nเลือก รูป แบบ การ Sign เป็น “ Select the folder ”\nปุ่ม “ Select ... ” ให้ Brows ไป ยัง ตำแหน่ง Folder ที่ เก็บ ไฟล์ PDF ที่ ต้องการ Sign ปุ่ม “ Save ... ” ให้ Brows ไป ยัง ตำแหน่ง Folder ที่ ต้องการ เก็บ ไฟล์ ที่ Sign แล้ว คลิก ปุ่ม “ Confirm ” เพื่อ ทำการ Sing เอกสาร\nคลิก Yes เพื่อ ยืนยัน\n2. จาก นั้น ระบบ จะ Popup ให้ ทำการ ป้อน รหัส ผ่าน Token ดัง รูป\nเมื่อ ป้อน รหัส ผ่าน ถูก ต้อง ระบบ จะ แจ้ง ผล การ Sign ดัง รูป\nไฟล์ : คู่มือ โปรแกรม PDFSigner.docx\nหน้า 13",
+        "lines": [
+            "• เลือก Profile ที่ ทํา การ สร้าง และ ตั้ง ค่า ไว้",
+            "พ",
+            "เลือก รูป แบบ การ Sign เป็น “ Select the folder ”",
+            "ปุ่ม “ Select ... ” ให้ Brows ไป ยัง ตำแหน่ง Folder ที่ เก็บ ไฟล์ PDF ที่ ต้องการ Sign ปุ่ม “ Save ... ” ให้ Brows ไป ยัง ตำแหน่ง Folder ที่ ต้องการ เก็บ ไฟล์ ที่ Sign แล้ว คลิก ปุ่ม “ Confirm ” เพื่อ ทำการ Sing เอกสาร",
+            "คลิก Yes เพื่อ ยืนยัน",
+            "2. จาก นั้น ระบบ จะ Popup ให้ ทำการ ป้อน รหัส ผ่าน Token ดัง รูป",
+            "เมื่อ ป้อน รหัส ผ่าน ถูก ต้อง ระบบ จะ แจ้ง ผล การ Sign ดัง รูป",
+            "ไฟล์ : คู่มือ โปรแกรม PDFSigner.docx",
+            "หน้า 13"
+        ]
+    }
+]

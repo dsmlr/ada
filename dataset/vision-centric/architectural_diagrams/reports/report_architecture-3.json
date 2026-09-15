@@ -1,0 +1,39 @@
+[
+    {
+        "page_id": "1",
+        "is_image_heavy": true,
+        "image_ratio": 0.06426409256542423,
+        "scores": {
+            "jaccard_score": 0.8909512761020881,
+            "chrf_score": 0.9663623214666246,
+            "cosine_score": 0.9885948317975817,
+            "recall_score": 0.9917355371900827
+        },
+        "status": "⚠️ Review (Vision)",
+        "note": "Extra Text (Check Vision)",
+        "details": {
+            "omissions": [],
+            "hallucinations": [
+                "[hallu 42%]: ctinซึ่งถือเป็นประเด็นสำคัญในการพัฒนาคลาวด์สีเขียวgreencludcmputingเพื่อให้สอดคล้องกับนโยบายด้านสิ่งแวดล้อมและความยั่งยืนในภาคอุตสาหกรรมยุคใหม่ที่ต้องเผชิญกับมาตรการควบคุมมลพิษระดับสากลในระบบอัตโนมัติอุตสาหกรรมindu",
+                "[hallu 32%]: รูปที่1:ภาพรวมของระบบอุตสาหกรรมในอนาคตที่มีการประกอบเซอร์วิสบนคลาวด์imagedescriptinแผนภาพแสดงโครงสร้างระบบอัตโนมัติอุตสาหกรรมในอนาคตแบ่งเป็นระดับชั้นตั้งแต่กระบวนการผลิตlevelไปจนถึงระดับบริหารจัดการerplevel4โดยมีการเชื่อมต่อกับแอปพลิเคชันรุ่นใหม่nextgeneratinapplicatinsและบริการบนคลาวด์imcaespservicecludผ่านเครือข่ายอินเทอร์เน็ต"
+            ]
+        }
+    },
+    {
+        "page_id": "2",
+        "is_image_heavy": true,
+        "image_ratio": 0.17664566731985706,
+        "scores": {
+            "jaccard_score": 0.8329113924050633,
+            "chrf_score": 0.9066610520798212,
+            "cosine_score": 0.9820725349224741,
+            "recall_score": 0.9189944134078212
+        },
+        "status": "✅ Pass",
+        "note": "Perfect match",
+        "details": {
+            "omissions": [],
+            "hallucinations": []
+        }
+    }
+]

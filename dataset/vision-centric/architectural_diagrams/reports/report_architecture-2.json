@@ -1,0 +1,40 @@
+[
+    {
+        "page_id": "1",
+        "is_image_heavy": true,
+        "image_ratio": 0.17610708270135267,
+        "scores": {
+            "jaccard_score": 0.6794448116325181,
+            "chrf_score": 0.9001444216733452,
+            "cosine_score": 0.9619882271354971,
+            "recall_score": 0.978116079923882
+        },
+        "status": "⚠️ Review (Vision)",
+        "note": "Extra Text (Check Vision)",
+        "details": {
+            "omissions": [],
+            "hallucinations": [
+                "[hallu 73%]: แผนภาพแสดงองค์ประกอบของระบบนิเวศการเรียนรู้ดิจิทัลdigitallearningecsystemcmpnentแบ่งออกเป็น2ส่วนหลักคือ:1องค์ประกอบการเรียนรู้ดิจิทัลแบบชีวภาพbiticdigitallearningcmpnentประกอบด้วย:digitalbitic:ผู้เรียนlearnersได้แก่นักเรียนstudentsและผู้ปกครองparents&guardianslearningbitic:ผู้สอนlecturersได้แก่ครูอาจารย์วิทยากรteachersinstructrstutrslecturersvisitingและทีมสนับสนุนsupprtteamsเช่นทีมict,โปรแกรมเมอร์,เว็บ,เกม,แอป,การประเมินผลและการวิเคราะห์2องค์ประกอบการเรียนรู้ดิจิทัลแบบกายภาพabiticdigitallearningcmpnentประกอบด้วย:digitalabitic:ฮาร์ดแวร์hardwareเช่นคอมพิวเตอร์,แล็ปท็อป,แท็บเล็ต,สมาร์ทโฟน;ซอฟต์แวร์sftwareเช่นlms,ระบบความปลอดภัย,การจัดการอุปกรณ์,บริการอินเทอร์เน็ต,แอปการเรียนการสอน;และเครือข่ายnetwrkเช่นอินทราเน็ต,อินเทอร์เน็ต,เอกซ์ทราเน็ตlearningabitic:ทฤษฎีการเรียนรู้learningthery,การจัดการเรียนรู้learningmanagementซึ่งครอบคลุมมิติด้านครุศาสตร์pedaggicaldimensinและกิจกรรมการเรียนรู้learningactivity,และการเล่าเรื่องแบบดิจิทัลdigitalstrytelling"
+            ]
+        }
+    },
+    {
+        "page_id": "2",
+        "is_image_heavy": true,
+        "image_ratio": 0.35207740150930433,
+        "scores": {
+            "jaccard_score": 0.39875,
+            "chrf_score": 0.7262094726747353,
+            "cosine_score": 0.9304355679854089,
+            "recall_score": 1.0
+        },
+        "status": "⚠️ Review (Vision)",
+        "note": "Extra Text (Check Vision)",
+        "details": {
+            "omissions": [],
+            "hallucinations": [
+                "[hallu 77%]: แผนภาพแสดงสถาปัตยกรรมระบบการจัดการการเล่าเรื่องแบบดิจิทัลในระบบนิเวศการเรียนรู้ดิจิทัลdigitalstrytellingmanagementindigitallearningecsystemหรือdtleclmsประกอบด้วย:ส่วนบน:ระบบนิเวศการเรียนรู้ดิจิทัลdigitallearningecsystemที่รวมเครื่องมือและเทคโนโลยีต่างๆเช่นlms,lrs,datascience,businessintelligenceส่วนกลาง:ผู้ใช้งานระบบได้แก่ผู้เรียนlearners,ผู้สอนinstructrsและผู้ดูแลระบบadminเชื่อมต่อผ่านcludserverและcludserviceprviderส่วนล่าง:การเรียนรู้แบบบูรณาการintegratedlearningที่เชื่อมโยงองค์ประกอบชีวภาพbiticcmpnentและองค์ประกอบกายภาพabiticcmpnentเข้ากับการเล่าเรื่องแบบดิจิทัลdigitalstrytellingซึ่งมี7ขั้นตอนตามแนวคิดของlambert27ได้แก่1การกำหนดมุมมองการนำเสนอ2การสร้างเนื้อหาเปิดเรื่อง3การสร้างอารมณ์4การใช้เสียง5เทคนิคภาพและเสียง6ความมีคุณค่าและ7อ้างอิงlambert,j27ส่วนล่างสุด:แถบเมนูการใช้งานเช่นปฏิทินcalendar,กิจกรรมactivity,รายวิชาcurse,การเรียนรู้learning,ผลงานwrks,การอภิปรายdiscussinและข้อความmessage"
+            ]
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "page_id": 1,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-3/extracted_images/p1_img0_0.jpg",
+        "coordinates": [
+            1710,
+            1918,
+            2999,
+            2689
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-3/extracted_images/p2_img0_0.jpg",
+        "coordinates": [
+            323,
+            2318,
+            1614,
+            3167
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-3/extracted_images/p2_img1_0.jpg",
+        "coordinates": [
+            1710,
+            2001,
+            3001,
+            3268
+        ]
+    }
+]

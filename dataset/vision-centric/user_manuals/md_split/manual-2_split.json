@@ -1,0 +1,67 @@
+[
+    {
+        "source_file": "manual-2.md",
+        "page_id": 1,
+        "md_text": "# 1. การติดตั้งโปรแกรม (Installation)\n\nโปรแกรม PDFSigner คือ โปรแกรมสำหรับใช้ในการลงลายมือชื่อดิจิทัลเอกสารแนบ (PDF) ซึ่งเป็นเอกสารประกอบการพิจารณาในการยื่นคำร้องขอรับใบอนุญาตหรือหนังสือรับรองต่างๆ ซึ่งผู้ประกอบการจะต้องทำการลงลายมือชื่อดิจิทัลเพื่อเป็นการรับรองสำเนาถูกต้องของเอกสารนั้นๆ\n\n## 2. การติดตั้งโปรแกรม (Installation)\n\n1. เข้าสู่หน้าสำหรับดาวน์โหลดโปรแกรม\n- ระบบทดสอบ (Test system) http://testportal.dpim.go.th/publish/pdfsign\n- ระบบจริง (Production) http://portal.dpim.go.th/publish/pdfsign/index.html\n\n2. คลิกปุ่ม “Install” ดังรูป\n\n[ภาพแสดงหน้าจอ Download and install PDFSigner ระบุชื่อโปรแกรม PDFSigner เวอร์ชัน 3.0.0.8 และความต้องการของระบบคือ Microsoft .NET Framework 4.5 (x86 and x64) โดยมีลูกศรสีแดงชี้ไปที่ปุ่ม Install]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 2,
+        "md_text": "จะปรากฏหน้าจอ Popup ให้คลิกปุ่ม “Save File” เพื่อ Save ไฟล์ไว้ในเครื่องของผู้ใช้งานก่อน\n\n[ภาพแสดงหน้าจอ Popup \"Opening PDFSign_setup.exe\" ซึ่งมีตัวเลือกให้บันทึกไฟล์ โดยมีปุ่ม Save File และ Cancel]\n\n3. เมื่อดาวน์โหลดไฟล์เรียบร้อยแล้ว เริ่มการติดตั้ง โดยคลิกที่ไฟล์ Setup.exe ดังรูป\n\n[ภาพแสดงหน้าจอเบราว์เซอร์ในส่วนของรายการดาวน์โหลด ปรากฏไฟล์ setup.exe ที่ดาวน์โหลดเสร็จสมบูรณ์แล้ว โดยมีลูกศรสีแดงชี้ไปที่ไฟล์ดังกล่าว]\n\n4. ในกรณีที่ใช้ Windows 10 เครื่องอาจจะขึ้นหน้าจอ Windows Protected your PC ดังรูป ให้คลิกที่ “More Info”\n\n[ภาพแสดงหน้าจอแจ้งเตือนความปลอดภัยของ Windows SmartScreen ระบุข้อความ Windows protected your PC โดยมีวงกลมสีแดงและลูกศรชี้ที่ข้อความ More info]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 3,
+        "md_text": "จากนั้นคลิก “Run anyway”\n\n[ภาพแสดงหน้าจอ Windows protected your PC หลังจากคลิก More info จะปรากฏรายละเอียดของแอปพลิเคชันและปุ่ม Run anyway โดยมีลูกศรสีแดงชี้ที่ปุ่ม Run anyway]\n\n5. จากเข้าสู่หน้าจอเพื่อให้ยืนยันการติดตั้งโปรแกรมอีกครั้ง ให้คลิก “Install”\n\n[ภาพแสดงหน้าจอ Application Install - Security Warning แสดงรายละเอียดของโปรแกรม pdfsign และปุ่ม Install พร้อมลูกศรสีแดงชี้ และมีหน้าต่างแสดงความคืบหน้าการติดตั้ง Installing pdfsign ซ้อนอยู่ด้านหน้า]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 4,
+        "md_text": "6. เมื่อทำการติดตั้งโปรแกรมเสร็จเรียบร้อยแล้วจะปรากฏ ICON ที่หน้า Desktop ดังรูป\n\n[ภาพแสดงไอคอนโปรแกรม PDFSigner บนหน้าจอ Desktop เป็นรูปสัญลักษณ์กระดาษสีเขียวและปากกา]\n\n7. เมื่อทำการ Double Click Shortcut “PDFSigner” จะเปิดโปรแกรม PDFSigner ดังรูป\n\n[ภาพแสดงหน้าจอหลักของโปรแกรม PDFSigner ซึ่งประกอบด้วยเมนู Home, Timestamp, Encryption, Setting และส่วนของ PDF Signing สำหรับเลือกไฟล์และบันทึกไฟล์]\n\n**หมายเหตุ** โปรแกรม PDFSigner นี้ก่อนการใช้งานจะต้องทำการตั้งค่า Profile สำหรับการใช้งานก่อนจึงจะสามารถทำการ Sign เอกสาร PDF ได้ ซึ่งวิธีการตั้งค่าจะอธิบายในหัวข้อต่อไป"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 5,
+        "md_text": "# 3. การใช้งานโปรแกรม PDFSigner\n\nการกำหนดค่า (Configuration) และการเชื่อมต่อ (Integration) Time Stamp Server สำหรับโปรแกรม PDFSigner\n\n### การสร้าง Profile\n\n1. เปิดโปรแกรม PDFSigner แล้วคลิกที่ “Setting” ดังรูป\n\n[ภาพแสดงหน้าจอโปรแกรม PDFSigner ในส่วนของเมนูหลัก โดยมีลูกศรสีแดงชี้ไปที่ปุ่ม Setting]\n\n2. ที่ช่อง Create Profile ให้ป้อนชื่อ Profile ที่ต้องการสร้าง จากนั้นคลิกปุ่ม “Create” และตอบ OK\n\n[ภาพแสดงหน้าจอการตั้งค่าโปรแกรม ในส่วน Create Profile มีการระบุชื่อโปรไฟล์ในช่องว่างและมีลูกศรสีแดงชี้ไปยังปุ่ม Create นอกจากนี้ยังมีหน้าต่าง New Profile ปรากฏขึ้นเพื่อยืนยันการสร้าง โดยมีลูกศรสีแดงชี้ที่ปุ่ม OK]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 6,
+        "md_text": "3. ตรงส่วน Position ให้เลือก “Basic” และเลือกตัวเลือก “BottomRight”\n\n[ภาพหน้าจอหน้าต่าง Create Profile แสดงส่วนการตั้งค่า Positioning โดยเลือกตัวเลือก Basic และเลือกตำแหน่งเป็น BottomRight จากรายการเลือก]\n\nจากนั้นตรงส่วนของ Image คลิก “Add image” เลือกรูปลายเซ็นที่ต้องการ และเลือกตัวเลือก “Image with no text” ดังรูป\n\n[ภาพหน้าจอหน้าต่าง Create Profile แสดงส่วนการตั้งค่า Image โดยมีการเลือก Add image และระบุที่อยู่ไฟล์รูปภาพลายเซ็น พร้อมเลือกตัวเลือก Image with no text และมีลูกศรสีแดงชี้ไปที่ปุ่ม Confirm]\n\nเมื่อทำการตั้งค่าต่างๆ ครบถ้วนตามรูปแล้ว คลิก “Confirm” เพื่อบันทึกการตั้งค่า Profile"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 7,
+        "md_text": "4. เมื่อบันทึก Profile เรียบร้อยแล้ว ที่หน้าจอโปรแกรม จะปรากฏ Profile ให้เลือกดังรูป\n\n[ภาพหน้าจอหลักของโปรแกรม PDFSigner แสดงส่วนการเลือก Profile โดยมีกรอบสีแดงล้อมรอบชื่อ Profile ที่สร้างขึ้น]\n\n### การตั้งค่าเพื่อเชื่อมต่อ Time Stamp Server\n\n1. เปิดโปรแกรม PDFSigner แล้วคลิกที่ “Timestamp”\n\n[ภาพหน้าจอหลักของโปรแกรม PDFSigner แสดงแถบเครื่องมือด้านบน โดยมีลูกศรสีแดงชี้ไปที่ไอคอน Timestamp]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 8,
+        "md_text": "2. จากนั้นที่หน้าจอ Timestamp Setting ให้ทำการตั้งค่า TimeStamp ตามต้องการ\n\n[ภาพหน้าจอหน้าต่าง DigitalCertificate ในแท็บ Setting แสดงส่วนการตั้งค่า Timestamp Setting ซึ่งประกอบด้วยช่องสำหรับระบุ Time Stamp Server URL และข้อมูลการยืนยันตัวตน]\n\n**หมายเหตุ** ระบบจะทำการตั้งค่า TimeStamp มาให้อัตโนมัติ เพื่อป้องกันการตั้งค่าหรือระบุ URL ของ Time Stamp Server ไม่ถูกต้อง อย่างไรก็ตามผู้ใช้งานสามารถแก้ไขการตั้งค่าเพิ่มเติมได้"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 9,
+        "md_text": "### การตั้งค่า Certificate\n\n1. ขณะอยู่ที่โปรแกรม PDFSigner แล้วคลิกที่ “Select the Digital Certificate” ดังรูป\n\n[ภาพหน้าจอหลักของโปรแกรม PDFSigner แสดงส่วนล่างของหน้าต่าง โดยมีกรอบสีแดงล้อมรอบปุ่ม Select the Digital Certificate]\n\n2. จากนั้นทำการเลือก Certificate ที่ต้องการใช้งาน ซึ่งสามารถเลือกได้สองรูปแบบ คือ\n\n#### กรณีเลือกใช้ Certificate แบบไฟล์\n\n[ภาพหน้าจอหน้าต่างสำหรับเลือก Digital Certificate โดยเลือกตัวเลือก PFX digital certificate file มีการระบุที่อยู่ไฟล์และรหัสผ่านในกรอบสีแดง พร้อมลูกศรสีแดงชี้ไปที่ปุ่ม Confirm]\n\n- คลิกเลือก “PFX digital certificate file”\n- เลือก Browser ไปยังไฟล์ Certificate และป้อนรหัสผ่านของให้ถูกต้อง\n- คลิก “Confirm” เพื่อเป็นการบันทึกการตั้งค่า"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 10,
+        "md_text": "#### กรณีเลือกใช้ Certificate แบบที่เป็น Token\n\n[ภาพหน้าจอหน้าต่างสำหรับเลือก Digital Certificate โดยเลือกตัวเลือก Windows Certificate Store และมีการเลือกรายการ Certificate ในกรอบสีแดง พร้อมลูกศรสีแดงชี้ไปที่ปุ่ม Confirm]\n\n- เสียบ Token เข้ากับเครื่องคอมพิวเตอร์\n[ภาพถ่ายอุปกรณ์ USB Token สำหรับเก็บ Digital Certificate]\n- เลือก Windows Certificate Store\n- จากนั้นเลือก Certificate จาก Token ซึ่งจะปรากฏให้เลือกหลังจากที่ทำการเสียบ Token เข้ากับเครื่องคอมพิวเตอร์แล้ว\n- จากนั้นคลิก “Confirm” เพื่อบันทึก"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 11,
+        "md_text": "## คู่มือการใช้งานโปรแกรม PDFSigner เพื่อรับรองสำเนาถูกต้องของเอกสารแนบ (PDF)\n\n## การ Sign เอกสารแนบ PDF\n\n### การ Sign PDF ครั้งละหนึ่งไฟล์\n\n1. เข้าสู่โปรแกรม PDFSigner จากนั้นทำตามขั้นตอน ดังนี้\n\n[ภาพหน้าจอโปรแกรม DigitalCertificate แสดงส่วนการตั้งค่า PDF Signing โดยเลือกตัวเลือก Select single file พร้อมระบุพาธไฟล์ต้นทางและไฟล์ปลายทาง มีปุ่ม Select the Digital Certificate, Confirm และ Close]\n\n- เลือก Profile ที่ทำการสร้างและตั้งค่าไว้\n- เลือกรูปแบบการ Sign เป็น “Select Single file”\n- ปุ่ม “Select...” ให้ Brows ไปยังไฟล์ PDF ที่ต้องการ Sign\n- ปุ่ม “Save...” เป็นการตั้งค่าชื่อไฟล์ PDF หลังจากที่ทำการ Sign เรียบร้อยแล้ว\n- คลิกปุ่ม “Confirm” เพื่อทำการ Sing เอกสาร\n\n[ภาพหน้าจอกล่องข้อความยืนยัน หัวข้อ ยืนยัน พร้อมข้อความ ยืนยันการลงนามเอกสาร ? และปุ่ม Yes, No]\n\n- คลิก Yes เพื่อยืนยัน"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 12,
+        "md_text": "2. จากนั้นระบบจะ Popup ให้ทำการป้อนรหัสผ่าน Token ดังรูป\n\n[ภาพหน้าจอหน้าต่าง Token Logon ของ SafeNet Authentication Client แสดงช่องสำหรับใส่ Token Password พร้อมชื่อ Token Name และปุ่ม OK, Cancel]\n\nเมื่อป้อนรหัสผ่านถูกต้อง ระบบจะแจ้งผลการ Sign ดังรูป\n\n[ภาพหน้าจอกล่องข้อความแจ้งเตือน หัวข้อ เสร็จสมบูรณ์ พร้อมข้อความ บันทึกไฟล์เรียบร้อยแล้ว และปุ่ม OK]\n\n### การ Sign PDF แบบหลายไฟล์ในครั้งเดียว\n\n1. เข้าสู่โปรแกรม PDFSigner จากนั้นทำตามขั้นตอน ดังนี้\n\n[ภาพหน้าจอโปรแกรม DigitalCertificate แสดงส่วนการตั้งค่า PDF Signing โดยเลือกตัวเลือก Select the folder พร้อมระบุพาธโฟลเดอร์ต้นทางและโฟลเดอร์ปลายทาง]"
+    },
+    {
+        "source_file": "manual-2.md",
+        "page_id": 13,
+        "md_text": "- เลือก Profile ที่ทำการสร้างและตั้งค่าไว้\n- เลือกรูปแบบการ Sign เป็น “Select the folder”\n- ปุ่ม “Select...” ให้ Brows ไปยังตำแหน่ง Folder ที่เก็บไฟล์ PDF ที่ต้องการ Sign\n- ปุ่ม “Save...” ให้ Brows ไปยังตำแหน่ง Folder ที่ต้องการเก็บไฟล์ที่ Sign แล้ว\n- คลิกปุ่ม “Confirm” เพื่อทำการ Sing เอกสาร\n\n[ภาพหน้าจอกล่องข้อความยืนยัน หัวข้อ ยืนยัน พร้อมข้อความ ยืนยันการลงนามเอกสาร ? และปุ่ม Yes, No]\n\n- คลิก Yes เพื่อยืนยัน\n\n2. จากนั้นระบบจะ Popup ให้ทำการป้อนรหัสผ่าน Token ดังรูป\n\n[ภาพหน้าจอหน้าต่าง Token Logon ของ SafeNet Authentication Client แสดงช่องสำหรับใส่ Token Password พร้อมชื่อ Token Name และปุ่ม OK, Cancel]\n\nเมื่อป้อนรหัสผ่านถูกต้อง ระบบจะแจ้งผลการ Sign ดังรูป\n\n[ภาพหน้าจอกล่องข้อความแจ้งเตือน หัวข้อ เสร็จสมบูรณ์ พร้อมข้อความ บันทึกไฟล์เรียบร้อยแล้ว และปุ่ม OK]"
+    }
+]

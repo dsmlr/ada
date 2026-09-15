@@ -1,0 +1,57 @@
+[
+    {
+        "page_id": 1,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-2/extracted_images/p1_img0_0.jpg",
+        "coordinates": [
+            565,
+            2446,
+            2742,
+            3697
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-2/extracted_images/p2_img0_0.jpg",
+        "coordinates": [
+            965,
+            579,
+            2363,
+            1495
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-2/extracted_images/p2_img1_0.jpg",
+        "coordinates": [
+            854,
+            1490,
+            2456,
+            2450
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-2/extracted_images/p2_img2_0.jpg",
+        "coordinates": [
+            853,
+            2424,
+            2459,
+            3261
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/architecture/Raw/prep_architecture-2/extracted_images/p2_img3_0.jpg",
+        "coordinates": [
+            911,
+            2150,
+            2400,
+            3011
+        ]
+    }
+]

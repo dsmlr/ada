@@ -1,0 +1,4996 @@
+[
+    {
+        "page_id": 1,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p1_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p1_img1_0.jpg",
+        "coordinates": [
+            2029,
+            1286,
+            2186,
+            1425
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p1_img2_0.jpg",
+        "coordinates": [
+            978,
+            1602,
+            2628,
+            2366
+        ]
+    },
+    {
+        "page_id": 1,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p1_img3_0.jpg",
+        "coordinates": [
+            987,
+            2589,
+            2620,
+            3883
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p2_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p2_img1_0.jpg",
+        "coordinates": [
+            949,
+            1103,
+            2358,
+            1540
+        ]
+    },
+    {
+        "page_id": 2,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p2_img2_0.jpg",
+        "coordinates": [
+            408,
+            1794,
+            2916,
+            2811
+        ]
+    },
+    {
+        "page_id": 3,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p3_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 3,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p3_img1_0.jpg",
+        "coordinates": [
+            508,
+            757,
+            2885,
+            1601
+        ]
+    },
+    {
+        "page_id": 3,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p3_img2_0.jpg",
+        "coordinates": [
+            500,
+            1840,
+            3007,
+            3277
+        ]
+    },
+    {
+        "page_id": 4,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p4_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 4,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p4_img1_0.jpg",
+        "coordinates": [
+            499,
+            924,
+            2808,
+            4232
+        ]
+    },
+    {
+        "page_id": 5,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p5_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 5,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p5_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1644
+        ]
+    },
+    {
+        "page_id": 5,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p5_img2_0.jpg",
+        "coordinates": [
+            795,
+            2170,
+            2514,
+            2653
+        ]
+    },
+    {
+        "page_id": 6,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p6_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 6,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p6_img1_0.jpg",
+        "coordinates": [
+            500,
+            525,
+            3007,
+            3000
+        ]
+    },
+    {
+        "page_id": 7,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p7_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 7,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p7_img1_0.jpg",
+        "coordinates": [
+            500,
+            1215,
+            3007,
+            1873
+        ]
+    },
+    {
+        "page_id": 8,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p8_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 8,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p8_img1_0.jpg",
+        "coordinates": [
+            500,
+            525,
+            3007,
+            3112
+        ]
+    },
+    {
+        "page_id": 9,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p9_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 9,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p9_img1_0.jpg",
+        "coordinates": [
+            408,
+            874,
+            2900,
+            1006
+        ]
+    },
+    {
+        "page_id": 9,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p9_img2_0.jpg",
+        "coordinates": [
+            412,
+            1373,
+            2896,
+            1757
+        ]
+    },
+    {
+        "page_id": 9,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p9_img3_0.jpg",
+        "coordinates": [
+            500,
+            2016,
+            3007,
+            2348
+        ]
+    },
+    {
+        "page_id": 9,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p9_img4_0.jpg",
+        "coordinates": [
+            400,
+            3182,
+            2907,
+            3595
+        ]
+    },
+    {
+        "page_id": 10,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p10_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 10,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p10_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1816
+        ]
+    },
+    {
+        "page_id": 10,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p10_img2_0.jpg",
+        "coordinates": [
+            400,
+            2040,
+            2907,
+            3449
+        ]
+    },
+    {
+        "page_id": 11,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p11_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 11,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p11_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1852
+        ]
+    },
+    {
+        "page_id": 11,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p11_img2_0.jpg",
+        "coordinates": [
+            400,
+            2200,
+            2907,
+            3661
+        ]
+    },
+    {
+        "page_id": 12,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p12_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 12,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p12_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1446
+        ]
+    },
+    {
+        "page_id": 12,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p12_img2_0.jpg",
+        "coordinates": [
+            400,
+            1963,
+            2907,
+            2450
+        ]
+    },
+    {
+        "page_id": 12,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p12_img3_0.jpg",
+        "coordinates": [
+            757,
+            2679,
+            2549,
+            3075
+        ]
+    },
+    {
+        "page_id": 13,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p13_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 13,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p13_img1_0.jpg",
+        "coordinates": [
+            812,
+            659,
+            2591,
+            1130
+        ]
+    },
+    {
+        "page_id": 13,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p13_img2_0.jpg",
+        "coordinates": [
+            408,
+            1830,
+            2916,
+            2136
+        ]
+    },
+    {
+        "page_id": 13,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p13_img3_0.jpg",
+        "coordinates": [
+            408,
+            2501,
+            2916,
+            3177
+        ]
+    },
+    {
+        "page_id": 14,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p14_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 14,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p14_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1819
+        ]
+    },
+    {
+        "page_id": 14,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p14_img2_0.jpg",
+        "coordinates": [
+            1018,
+            2292,
+            2288,
+            3243
+        ]
+    },
+    {
+        "page_id": 14,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p14_img3_0.jpg",
+        "coordinates": [
+            400,
+            3464,
+            2907,
+            4018
+        ]
+    },
+    {
+        "page_id": 15,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p15_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 15,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p15_img1_0.jpg",
+        "coordinates": [
+            400,
+            740,
+            2907,
+            1786
+        ]
+    },
+    {
+        "page_id": 15,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p15_img2_0.jpg",
+        "coordinates": [
+            400,
+            2010,
+            2907,
+            3756
+        ]
+    },
+    {
+        "page_id": 16,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p16_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 16,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p16_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1569
+        ]
+    },
+    {
+        "page_id": 17,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p17_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 17,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p17_img1_0.jpg",
+        "coordinates": [
+            516,
+            919,
+            2893,
+            1763
+        ]
+    },
+    {
+        "page_id": 17,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p17_img2_0.jpg",
+        "coordinates": [
+            500,
+            2002,
+            3007,
+            3439
+        ]
+    },
+    {
+        "page_id": 18,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p18_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 18,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p18_img1_0.jpg",
+        "coordinates": [
+            499,
+            924,
+            2808,
+            4232
+        ]
+    },
+    {
+        "page_id": 19,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p19_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 19,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p19_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1646
+        ]
+    },
+    {
+        "page_id": 19,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p19_img2_0.jpg",
+        "coordinates": [
+            757,
+            2170,
+            2549,
+            2566
+        ]
+    },
+    {
+        "page_id": 20,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p20_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 20,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p20_img1_0.jpg",
+        "coordinates": [
+            500,
+            525,
+            3007,
+            3119
+        ]
+    },
+    {
+        "page_id": 21,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p21_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 21,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p21_img1_0.jpg",
+        "coordinates": [
+            500,
+            1215,
+            3007,
+            1873
+        ]
+    },
+    {
+        "page_id": 22,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p22_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 22,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p22_img1_0.jpg",
+        "coordinates": [
+            500,
+            525,
+            3007,
+            2955
+        ]
+    },
+    {
+        "page_id": 23,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p23_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 23,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p23_img1_0.jpg",
+        "coordinates": [
+            408,
+            874,
+            2900,
+            1006
+        ]
+    },
+    {
+        "page_id": 23,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p23_img2_0.jpg",
+        "coordinates": [
+            412,
+            1373,
+            2896,
+            1757
+        ]
+    },
+    {
+        "page_id": 23,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p23_img3_0.jpg",
+        "coordinates": [
+            500,
+            2016,
+            3007,
+            2348
+        ]
+    },
+    {
+        "page_id": 23,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p23_img4_0.jpg",
+        "coordinates": [
+            400,
+            3182,
+            2907,
+            3595
+        ]
+    },
+    {
+        "page_id": 24,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p24_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 24,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p24_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1816
+        ]
+    },
+    {
+        "page_id": 24,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p24_img2_0.jpg",
+        "coordinates": [
+            400,
+            2040,
+            2907,
+            3449
+        ]
+    },
+    {
+        "page_id": 25,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p25_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 25,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p25_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1852
+        ]
+    },
+    {
+        "page_id": 25,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p25_img2_0.jpg",
+        "coordinates": [
+            400,
+            2200,
+            2907,
+            3661
+        ]
+    },
+    {
+        "page_id": 26,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p26_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 26,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p26_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1446
+        ]
+    },
+    {
+        "page_id": 26,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p26_img2_0.jpg",
+        "coordinates": [
+            400,
+            2088,
+            2907,
+            3230
+        ]
+    },
+    {
+        "page_id": 26,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p26_img3_0.jpg",
+        "coordinates": [
+            749,
+            3585,
+            2558,
+            3981
+        ]
+    },
+    {
+        "page_id": 27,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p27_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 27,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p27_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1727
+        ]
+    },
+    {
+        "page_id": 27,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p27_img2_0.jpg",
+        "coordinates": [
+            400,
+            1949,
+            2907,
+            3212
+        ]
+    },
+    {
+        "page_id": 27,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p27_img3_0.jpg",
+        "coordinates": [
+            757,
+            3444,
+            2549,
+            3840
+        ]
+    },
+    {
+        "page_id": 28,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p28_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 28,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p28_img1_0.jpg",
+        "coordinates": [
+            812,
+            659,
+            2591,
+            1130
+        ]
+    },
+    {
+        "page_id": 28,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p28_img2_0.jpg",
+        "coordinates": [
+            408,
+            1830,
+            2916,
+            2136
+        ]
+    },
+    {
+        "page_id": 28,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p28_img3_0.jpg",
+        "coordinates": [
+            408,
+            2501,
+            2916,
+            3114
+        ]
+    },
+    {
+        "page_id": 29,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p29_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 29,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p29_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1822
+        ]
+    },
+    {
+        "page_id": 29,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p29_img2_0.jpg",
+        "coordinates": [
+            1037,
+            2294,
+            2267,
+            2988
+        ]
+    },
+    {
+        "page_id": 29,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p29_img3_0.jpg",
+        "coordinates": [
+            400,
+            3209,
+            2907,
+            3713
+        ]
+    },
+    {
+        "page_id": 30,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p30_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 30,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p30_img1_0.jpg",
+        "coordinates": [
+            400,
+            740,
+            2907,
+            1718
+        ]
+    },
+    {
+        "page_id": 30,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p30_img2_0.jpg",
+        "coordinates": [
+            400,
+            1939,
+            2907,
+            3684
+        ]
+    },
+    {
+        "page_id": 31,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p31_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 31,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p31_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1496
+        ]
+    },
+    {
+        "page_id": 32,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p32_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 32,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p32_img1_0.jpg",
+        "coordinates": [
+            500,
+            1178,
+            3007,
+            2195
+        ]
+    },
+    {
+        "page_id": 33,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p33_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 33,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p33_img1_0.jpg",
+        "coordinates": [
+            982,
+            1274,
+            2420,
+            2441
+        ]
+    },
+    {
+        "page_id": 33,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p33_img2_0.jpg",
+        "coordinates": [
+            512,
+            2682,
+            2891,
+            3105
+        ]
+    },
+    {
+        "page_id": 34,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p34_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 34,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p34_img1_0.jpg",
+        "coordinates": [
+            512,
+            641,
+            2893,
+            2263
+        ]
+    },
+    {
+        "page_id": 34,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p34_img2_0.jpg",
+        "coordinates": [
+            508,
+            2516,
+            2889,
+            3620
+        ]
+    },
+    {
+        "page_id": 35,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p35_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 35,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p35_img1_0.jpg",
+        "coordinates": [
+            512,
+            641,
+            2893,
+            1258
+        ]
+    },
+    {
+        "page_id": 35,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p35_img2_0.jpg",
+        "coordinates": [
+            516,
+            1507,
+            2893,
+            2598
+        ]
+    },
+    {
+        "page_id": 35,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p35_img3_0.jpg",
+        "coordinates": [
+            516,
+            2965,
+            2893,
+            4069
+        ]
+    },
+    {
+        "page_id": 36,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p36_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 36,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p36_img1_0.jpg",
+        "coordinates": [
+            512,
+            524,
+            2893,
+            1783
+        ]
+    },
+    {
+        "page_id": 36,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p36_img2_0.jpg",
+        "coordinates": [
+            516,
+            2032,
+            2894,
+            3131
+        ]
+    },
+    {
+        "page_id": 37,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p37_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 37,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p37_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2893,
+            1528
+        ]
+    },
+    {
+        "page_id": 37,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p37_img2_0.jpg",
+        "coordinates": [
+            512,
+            1890,
+            2893,
+            3738
+        ]
+    },
+    {
+        "page_id": 38,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p38_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 38,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p38_img1_0.jpg",
+        "coordinates": [
+            512,
+            641,
+            2896,
+            1173
+        ]
+    },
+    {
+        "page_id": 38,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p38_img2_0.jpg",
+        "coordinates": [
+            982,
+            1552,
+            2420,
+            2719
+        ]
+    },
+    {
+        "page_id": 39,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p39_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 39,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p39_img1_0.jpg",
+        "coordinates": [
+            516,
+            757,
+            2893,
+            1216
+        ]
+    },
+    {
+        "page_id": 39,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p39_img2_0.jpg",
+        "coordinates": [
+            516,
+            1232,
+            2893,
+            2576
+        ]
+    },
+    {
+        "page_id": 40,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p40_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 40,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p40_img1_0.jpg",
+        "coordinates": [
+            982,
+            1233,
+            2420,
+            2400
+        ]
+    },
+    {
+        "page_id": 40,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p40_img2_0.jpg",
+        "coordinates": [
+            516,
+            2641,
+            2892,
+            3071
+        ]
+    },
+    {
+        "page_id": 41,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p41_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 41,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p41_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2893,
+            1999
+        ]
+    },
+    {
+        "page_id": 41,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p41_img2_0.jpg",
+        "coordinates": [
+            516,
+            2365,
+            2893,
+            3756
+        ]
+    },
+    {
+        "page_id": 42,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p42_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 42,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p42_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2893,
+            1105
+        ]
+    },
+    {
+        "page_id": 42,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p42_img2_0.jpg",
+        "coordinates": [
+            516,
+            1411,
+            2893,
+            2991
+        ]
+    },
+    {
+        "page_id": 42,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p42_img3_0.jpg",
+        "coordinates": [
+            512,
+            3360,
+            2893,
+            3894
+        ]
+    },
+    {
+        "page_id": 43,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p43_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 43,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p43_img1_0.jpg",
+        "coordinates": [
+            982,
+            642,
+            2420,
+            1809
+        ]
+    },
+    {
+        "page_id": 43,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p43_img2_0.jpg",
+        "coordinates": [
+            516,
+            2166,
+            2892,
+            2640
+        ]
+    },
+    {
+        "page_id": 43,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p43_img3_0.jpg",
+        "coordinates": [
+            520,
+            2658,
+            2890,
+            3818
+        ]
+    },
+    {
+        "page_id": 44,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p44_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 44,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p44_img1_0.jpg",
+        "coordinates": [
+            982,
+            812,
+            2420,
+            1979
+        ]
+    },
+    {
+        "page_id": 44,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p44_img2_0.jpg",
+        "coordinates": [
+            512,
+            2220,
+            2892,
+            2760
+        ]
+    },
+    {
+        "page_id": 45,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p45_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 45,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p45_img1_0.jpg",
+        "coordinates": [
+            512,
+            641,
+            2897,
+            2016
+        ]
+    },
+    {
+        "page_id": 45,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p45_img2_0.jpg",
+        "coordinates": [
+            516,
+            2382,
+            2889,
+            3475
+        ]
+    },
+    {
+        "page_id": 46,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p46_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 46,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p46_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2892,
+            1089
+        ]
+    },
+    {
+        "page_id": 46,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p46_img2_0.jpg",
+        "coordinates": [
+            512,
+            1457,
+            2893,
+            3015
+        ]
+    },
+    {
+        "page_id": 46,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p46_img3_0.jpg",
+        "coordinates": [
+            512,
+            3382,
+            2893,
+            3900
+        ]
+    },
+    {
+        "page_id": 47,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p47_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 47,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p47_img1_0.jpg",
+        "coordinates": [
+            932,
+            642,
+            2370,
+            1809
+        ]
+    },
+    {
+        "page_id": 47,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p47_img2_0.jpg",
+        "coordinates": [
+            516,
+            2166,
+            2892,
+            2604
+        ]
+    },
+    {
+        "page_id": 47,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p47_img3_0.jpg",
+        "coordinates": [
+            508,
+            2625,
+            2897,
+            3763
+        ]
+    },
+    {
+        "page_id": 48,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p48_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 48,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p48_img1_0.jpg",
+        "coordinates": [
+            982,
+            642,
+            2420,
+            1809
+        ]
+    },
+    {
+        "page_id": 48,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p48_img2_0.jpg",
+        "coordinates": [
+            516,
+            2166,
+            2895,
+            2675
+        ]
+    },
+    {
+        "page_id": 48,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p48_img3_0.jpg",
+        "coordinates": [
+            516,
+            3041,
+            2893,
+            4135
+        ]
+    },
+    {
+        "page_id": 49,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p49_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 49,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p49_img1_0.jpg",
+        "coordinates": [
+            516,
+            524,
+            2889,
+            1630
+        ]
+    },
+    {
+        "page_id": 49,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p49_img2_0.jpg",
+        "coordinates": [
+            516,
+            1882,
+            2890,
+            2977
+        ]
+    },
+    {
+        "page_id": 50,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p50_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 50,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p50_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2893,
+            1795
+        ]
+    },
+    {
+        "page_id": 50,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p50_img2_0.jpg",
+        "coordinates": [
+            516,
+            2165,
+            2893,
+            3117
+        ]
+    },
+    {
+        "page_id": 51,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p51_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 51,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p51_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2893,
+            1938
+        ]
+    },
+    {
+        "page_id": 51,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p51_img2_0.jpg",
+        "coordinates": [
+            512,
+            2424,
+            2893,
+            3042
+        ]
+    },
+    {
+        "page_id": 52,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p52_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 52,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p52_img1_0.jpg",
+        "coordinates": [
+            982,
+            642,
+            2420,
+            1809
+        ]
+    },
+    {
+        "page_id": 52,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p52_img2_0.jpg",
+        "coordinates": [
+            516,
+            2166,
+            2893,
+            2698
+        ]
+    },
+    {
+        "page_id": 52,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p52_img3_0.jpg",
+        "coordinates": [
+            516,
+            2716,
+            2889,
+            3693
+        ]
+    },
+    {
+        "page_id": 53,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p53_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 53,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p53_img1_0.jpg",
+        "coordinates": [
+            991,
+            650,
+            2412,
+            1696
+        ]
+    },
+    {
+        "page_id": 53,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p53_img2_0.jpg",
+        "coordinates": [
+            508,
+            1964,
+            3016,
+            3123
+        ]
+    },
+    {
+        "page_id": 54,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p54_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 54,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p54_img1_0.jpg",
+        "coordinates": [
+            982,
+            1251,
+            2420,
+            2418
+        ]
+    },
+    {
+        "page_id": 54,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p54_img2_0.jpg",
+        "coordinates": [
+            400,
+            2683,
+            2907,
+            3250
+        ]
+    },
+    {
+        "page_id": 55,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p55_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 55,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p55_img1_0.jpg",
+        "coordinates": [
+            400,
+            632,
+            2907,
+            1813
+        ]
+    },
+    {
+        "page_id": 55,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p55_img2_0.jpg",
+        "coordinates": [
+            400,
+            2049,
+            2907,
+            3112
+        ]
+    },
+    {
+        "page_id": 56,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p56_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 56,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p56_img1_0.jpg",
+        "coordinates": [
+            400,
+            516,
+            2907,
+            2334
+        ]
+    },
+    {
+        "page_id": 56,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p56_img2_0.jpg",
+        "coordinates": [
+            400,
+            2717,
+            2907,
+            3637
+        ]
+    },
+    {
+        "page_id": 57,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p57_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 57,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p57_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1941
+        ]
+    },
+    {
+        "page_id": 57,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p57_img2_0.jpg",
+        "coordinates": [
+            400,
+            2166,
+            2907,
+            3587
+        ]
+    },
+    {
+        "page_id": 58,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p58_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 58,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p58_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1801
+        ]
+    },
+    {
+        "page_id": 58,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p58_img2_0.jpg",
+        "coordinates": [
+            400,
+            2024,
+            2907,
+            2985
+        ]
+    },
+    {
+        "page_id": 58,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p58_img3_0.jpg",
+        "coordinates": [
+            400,
+            3206,
+            2907,
+            3645
+        ]
+    },
+    {
+        "page_id": 59,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p59_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 59,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p59_img1_0.jpg",
+        "coordinates": [
+            749,
+            578,
+            2554,
+            966
+        ]
+    },
+    {
+        "page_id": 59,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p59_img2_0.jpg",
+        "coordinates": [
+            400,
+            1199,
+            2907,
+            2116
+        ]
+    },
+    {
+        "page_id": 60,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p60_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 60,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p60_img1_0.jpg",
+        "coordinates": [
+            1120,
+            803,
+            2287,
+            1719
+        ]
+    },
+    {
+        "page_id": 60,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p60_img2_0.jpg",
+        "coordinates": [
+            516,
+            1969,
+            2895,
+            2376
+        ]
+    },
+    {
+        "page_id": 61,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p61_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 61,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p61_img1_0.jpg",
+        "coordinates": [
+            516,
+            524,
+            2895,
+            1330
+        ]
+    },
+    {
+        "page_id": 61,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p61_img2_0.jpg",
+        "coordinates": [
+            500,
+            1574,
+            3007,
+            2762
+        ]
+    },
+    {
+        "page_id": 61,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p61_img3_0.jpg",
+        "coordinates": [
+            512,
+            3124,
+            2893,
+            3513
+        ]
+    },
+    {
+        "page_id": 62,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p62_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 62,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p62_img1_0.jpg",
+        "coordinates": [
+            512,
+            524,
+            2894,
+            1338
+        ]
+    },
+    {
+        "page_id": 62,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p62_img2_0.jpg",
+        "coordinates": [
+            512,
+            1591,
+            2894,
+            2692
+        ]
+    },
+    {
+        "page_id": 62,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p62_img3_0.jpg",
+        "coordinates": [
+            516,
+            3057,
+            2891,
+            3449
+        ]
+    },
+    {
+        "page_id": 63,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p63_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 63,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p63_img1_0.jpg",
+        "coordinates": [
+            516,
+            524,
+            2894,
+            1313
+        ]
+    },
+    {
+        "page_id": 63,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p63_img2_0.jpg",
+        "coordinates": [
+            512,
+            1566,
+            2895,
+            2675
+        ]
+    },
+    {
+        "page_id": 63,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p63_img3_0.jpg",
+        "coordinates": [
+            512,
+            3040,
+            2894,
+            3872
+        ]
+    },
+    {
+        "page_id": 64,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p64_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 64,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p64_img1_0.jpg",
+        "coordinates": [
+            516,
+            524,
+            2891,
+            1469
+        ]
+    },
+    {
+        "page_id": 64,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p64_img2_0.jpg",
+        "coordinates": [
+            516,
+            1886,
+            2895,
+            2986
+        ]
+    },
+    {
+        "page_id": 65,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p65_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 65,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p65_img1_0.jpg",
+        "coordinates": [
+            512,
+            524,
+            2894,
+            1775
+        ]
+    },
+    {
+        "page_id": 65,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p65_img2_0.jpg",
+        "coordinates": [
+            512,
+            2024,
+            2894,
+            3124
+        ]
+    },
+    {
+        "page_id": 66,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p66_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 66,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p66_img1_0.jpg",
+        "coordinates": [
+            516,
+            641,
+            2891,
+            1635
+        ]
+    },
+    {
+        "page_id": 66,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p66_img2_0.jpg",
+        "coordinates": [
+            512,
+            1999,
+            2894,
+            2464
+        ]
+    },
+    {
+        "page_id": 67,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p67_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 67,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p67_img1_0.jpg",
+        "coordinates": [
+            1162,
+            650,
+            2248,
+            1490
+        ]
+    },
+    {
+        "page_id": 67,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p67_img2_0.jpg",
+        "coordinates": [
+            512,
+            1858,
+            2894,
+            2328
+        ]
+    },
+    {
+        "page_id": 67,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p67_img3_0.jpg",
+        "coordinates": [
+            516,
+            2341,
+            2895,
+            3576
+        ]
+    },
+    {
+        "page_id": 68,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p68_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 68,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p68_img1_0.jpg",
+        "coordinates": [
+            1137,
+            642,
+            2266,
+            1229
+        ]
+    },
+    {
+        "page_id": 68,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p68_img2_0.jpg",
+        "coordinates": [
+            500,
+            1466,
+            3007,
+            2066
+        ]
+    },
+    {
+        "page_id": 69,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p69_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 69,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p69_img1_0.jpg",
+        "coordinates": [
+            1133,
+            642,
+            2274,
+            1283
+        ]
+    },
+    {
+        "page_id": 69,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p69_img2_0.jpg",
+        "coordinates": [
+            400,
+            1548,
+            2907,
+            2054
+        ]
+    },
+    {
+        "page_id": 70,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p70_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 70,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p70_img1_0.jpg",
+        "coordinates": [
+            400,
+            632,
+            2907,
+            1764
+        ]
+    },
+    {
+        "page_id": 70,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p70_img2_0.jpg",
+        "coordinates": [
+            400,
+            1999,
+            2907,
+            2794
+        ]
+    },
+    {
+        "page_id": 71,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p71_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 71,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p71_img1_0.jpg",
+        "coordinates": [
+            400,
+            516,
+            2907,
+            2334
+        ]
+    },
+    {
+        "page_id": 71,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p71_img2_0.jpg",
+        "coordinates": [
+            400,
+            2717,
+            2907,
+            3390
+        ]
+    },
+    {
+        "page_id": 72,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p72_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 72,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p72_img1_0.jpg",
+        "coordinates": [
+            400,
+            695,
+            2907,
+            1933
+        ]
+    },
+    {
+        "page_id": 72,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p72_img2_0.jpg",
+        "coordinates": [
+            400,
+            2158,
+            2907,
+            3579
+        ]
+    },
+    {
+        "page_id": 73,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p73_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 73,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p73_img1_0.jpg",
+        "coordinates": [
+            400,
+            570,
+            2907,
+            1760
+        ]
+    },
+    {
+        "page_id": 73,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p73_img2_0.jpg",
+        "coordinates": [
+            400,
+            1982,
+            2907,
+            2781
+        ]
+    },
+    {
+        "page_id": 73,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p73_img3_0.jpg",
+        "coordinates": [
+            400,
+            3003,
+            2907,
+            3408
+        ]
+    },
+    {
+        "page_id": 74,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p74_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 74,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p74_img1_0.jpg",
+        "coordinates": [
+            749,
+            578,
+            2554,
+            966
+        ]
+    },
+    {
+        "page_id": 74,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p74_img2_0.jpg",
+        "coordinates": [
+            400,
+            1199,
+            2907,
+            1955
+        ]
+    },
+    {
+        "page_id": 75,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p75_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 75,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p75_img1_0.jpg",
+        "coordinates": [
+            1062,
+            986,
+            2242,
+            1564
+        ]
+    },
+    {
+        "page_id": 75,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p75_img2_0.jpg",
+        "coordinates": [
+            400,
+            1803,
+            2907,
+            2351
+        ]
+    },
+    {
+        "page_id": 75,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p75_img3_0.jpg",
+        "coordinates": [
+            741,
+            2594,
+            2567,
+            2989
+        ]
+    },
+    {
+        "page_id": 75,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p75_img4_0.jpg",
+        "coordinates": [
+            757,
+            3227,
+            2547,
+            4094
+        ]
+    },
+    {
+        "page_id": 76,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p76_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 76,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p76_img1_0.jpg",
+        "coordinates": [
+            400,
+            516,
+            2907,
+            967
+        ]
+    },
+    {
+        "page_id": 76,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p76_img2_0.jpg",
+        "coordinates": [
+            412,
+            1209,
+            2899,
+            1675
+        ]
+    },
+    {
+        "page_id": 76,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p76_img3_0.jpg",
+        "coordinates": [
+            416,
+            1925,
+            2895,
+            2986
+        ]
+    },
+    {
+        "page_id": 77,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p77_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 77,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p77_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1997
+        ]
+    },
+    {
+        "page_id": 78,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p78_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 78,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p78_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1672
+        ]
+    },
+    {
+        "page_id": 78,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p78_img2_0.jpg",
+        "coordinates": [
+            408,
+            1924,
+            2916,
+            2627
+        ]
+    },
+    {
+        "page_id": 78,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p78_img3_0.jpg",
+        "coordinates": [
+            745,
+            2874,
+            2558,
+            3211
+        ]
+    },
+    {
+        "page_id": 79,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p79_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 79,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p79_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2899,
+            1291
+        ]
+    },
+    {
+        "page_id": 79,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p79_img2_0.jpg",
+        "coordinates": [
+            741,
+            1541,
+            2566,
+            1895
+        ]
+    },
+    {
+        "page_id": 80,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p80_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 80,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p80_img1_0.jpg",
+        "coordinates": [
+            987,
+            650,
+            2316,
+            1300
+        ]
+    },
+    {
+        "page_id": 80,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p80_img2_0.jpg",
+        "coordinates": [
+            400,
+            1541,
+            2907,
+            2089
+        ]
+    },
+    {
+        "page_id": 80,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p80_img3_0.jpg",
+        "coordinates": [
+            741,
+            2333,
+            2567,
+            2727
+        ]
+    },
+    {
+        "page_id": 80,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p80_img4_0.jpg",
+        "coordinates": [
+            400,
+            3082,
+            2907,
+            4233
+        ]
+    },
+    {
+        "page_id": 81,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p81_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 81,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p81_img1_0.jpg",
+        "coordinates": [
+            400,
+            516,
+            2907,
+            967
+        ]
+    },
+    {
+        "page_id": 81,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p81_img2_0.jpg",
+        "coordinates": [
+            400,
+            1200,
+            2907,
+            1989
+        ]
+    },
+    {
+        "page_id": 81,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p81_img3_0.jpg",
+        "coordinates": [
+            591,
+            2225,
+            2714,
+            3414
+        ]
+    },
+    {
+        "page_id": 81,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p81_img4_0.jpg",
+        "coordinates": [
+            400,
+            3766,
+            2907,
+            4115
+        ]
+    },
+    {
+        "page_id": 82,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p82_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 82,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p82_img1_0.jpg",
+        "coordinates": [
+            645,
+            524,
+            2662,
+            967
+        ]
+    },
+    {
+        "page_id": 82,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p82_img2_0.jpg",
+        "coordinates": [
+            400,
+            1207,
+            2907,
+            2397
+        ]
+    },
+    {
+        "page_id": 82,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p82_img3_0.jpg",
+        "coordinates": [
+            532,
+            2640,
+            2775,
+            3128
+        ]
+    },
+    {
+        "page_id": 82,
+        "image_id": "4_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p82_img4_0.jpg",
+        "coordinates": [
+            400,
+            3373,
+            2907,
+            3719
+        ]
+    },
+    {
+        "page_id": 83,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p83_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 83,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p83_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2899,
+            991
+        ]
+    },
+    {
+        "page_id": 83,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p83_img2_0.jpg",
+        "coordinates": [
+            416,
+            1241,
+            2895,
+            2301
+        ]
+    },
+    {
+        "page_id": 83,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p83_img3_0.jpg",
+        "coordinates": [
+            416,
+            2549,
+            2895,
+            4021
+        ]
+    },
+    {
+        "page_id": 84,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p84_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 84,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p84_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1672
+        ]
+    },
+    {
+        "page_id": 84,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p84_img2_0.jpg",
+        "coordinates": [
+            408,
+            1924,
+            2916,
+            2627
+        ]
+    },
+    {
+        "page_id": 84,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p84_img3_0.jpg",
+        "coordinates": [
+            745,
+            2874,
+            2558,
+            3211
+        ]
+    },
+    {
+        "page_id": 85,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p85_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 85,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p85_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2899,
+            1291
+        ]
+    },
+    {
+        "page_id": 85,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p85_img2_0.jpg",
+        "coordinates": [
+            741,
+            1541,
+            2566,
+            1895
+        ]
+    },
+    {
+        "page_id": 86,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p86_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 86,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p86_img1_0.jpg",
+        "coordinates": [
+            882,
+            1103,
+            2424,
+            1540
+        ]
+    },
+    {
+        "page_id": 86,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p86_img2_0.jpg",
+        "coordinates": [
+            416,
+            1794,
+            2888,
+            2982
+        ]
+    },
+    {
+        "page_id": 87,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p87_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 87,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p87_img1_0.jpg",
+        "coordinates": [
+            416,
+            641,
+            2891,
+            1911
+        ]
+    },
+    {
+        "page_id": 88,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p88_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 88,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p88_img1_0.jpg",
+        "coordinates": [
+            545,
+            986,
+            2765,
+            1661
+        ]
+    },
+    {
+        "page_id": 88,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p88_img2_0.jpg",
+        "coordinates": [
+            416,
+            1971,
+            2895,
+            2815
+        ]
+    },
+    {
+        "page_id": 89,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p89_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 89,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p89_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2895,
+            1794
+        ]
+    },
+    {
+        "page_id": 89,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p89_img2_0.jpg",
+        "coordinates": [
+            1564,
+            1976,
+            1697,
+            2092
+        ]
+    },
+    {
+        "page_id": 89,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p89_img3_0.jpg",
+        "coordinates": [
+            408,
+            2141,
+            2916,
+            3423
+        ]
+    },
+    {
+        "page_id": 90,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p90_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 90,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p90_img1_0.jpg",
+        "coordinates": [
+            566,
+            524,
+            2745,
+            2003
+        ]
+    },
+    {
+        "page_id": 90,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p90_img2_0.jpg",
+        "coordinates": [
+            566,
+            2309,
+            2745,
+            3787
+        ]
+    },
+    {
+        "page_id": 91,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p91_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 91,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p91_img1_0.jpg",
+        "coordinates": [
+            408,
+            524,
+            2916,
+            1489
+        ]
+    },
+    {
+        "page_id": 92,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p92_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 92,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p92_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1481
+        ]
+    },
+    {
+        "page_id": 92,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p92_img2_0.jpg",
+        "coordinates": [
+            416,
+            1792,
+            2895,
+            2764
+        ]
+    },
+    {
+        "page_id": 92,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p92_img3_0.jpg",
+        "coordinates": [
+            412,
+            3076,
+            2899,
+            3715
+        ]
+    },
+    {
+        "page_id": 93,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p93_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 93,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p93_img1_0.jpg",
+        "coordinates": [
+            578,
+            524,
+            2728,
+            1497
+        ]
+    },
+    {
+        "page_id": 93,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p93_img2_0.jpg",
+        "coordinates": [
+            412,
+            1809,
+            2895,
+            2940
+        ]
+    },
+    {
+        "page_id": 94,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p94_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 94,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p94_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2894,
+            1158
+        ]
+    },
+    {
+        "page_id": 94,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p94_img2_0.jpg",
+        "coordinates": [
+            408,
+            1637,
+            2916,
+            2277
+        ]
+    },
+    {
+        "page_id": 95,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p95_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 95,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p95_img1_0.jpg",
+        "coordinates": [
+            408,
+            757,
+            2916,
+            1371
+        ]
+    },
+    {
+        "page_id": 95,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p95_img2_0.jpg",
+        "coordinates": [
+            408,
+            1737,
+            2916,
+            2350
+        ]
+    },
+    {
+        "page_id": 95,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p95_img3_0.jpg",
+        "coordinates": [
+            412,
+            2779,
+            2895,
+            3367
+        ]
+    },
+    {
+        "page_id": 96,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p96_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 96,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p96_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2894,
+            959
+        ]
+    },
+    {
+        "page_id": 96,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p96_img2_0.jpg",
+        "coordinates": [
+            416,
+            1267,
+            2895,
+            2194
+        ]
+    },
+    {
+        "page_id": 96,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p96_img3_0.jpg",
+        "coordinates": [
+            416,
+            2501,
+            2895,
+            3427
+        ]
+    },
+    {
+        "page_id": 97,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p97_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 97,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p97_img1_0.jpg",
+        "coordinates": [
+            416,
+            757,
+            2895,
+            1904
+        ]
+    },
+    {
+        "page_id": 97,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p97_img2_0.jpg",
+        "coordinates": [
+            416,
+            2217,
+            2895,
+            3138
+        ]
+    },
+    {
+        "page_id": 98,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p98_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 98,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p98_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2891,
+            947
+        ]
+    },
+    {
+        "page_id": 98,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p98_img2_0.jpg",
+        "coordinates": [
+            549,
+            1429,
+            2754,
+            2521
+        ]
+    },
+    {
+        "page_id": 98,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p98_img3_0.jpg",
+        "coordinates": [
+            441,
+            2830,
+            2864,
+            3572
+        ]
+    },
+    {
+        "page_id": 99,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p99_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 99,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p99_img1_0.jpg",
+        "coordinates": [
+            408,
+            641,
+            2899,
+            1461
+        ]
+    },
+    {
+        "page_id": 99,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p99_img2_0.jpg",
+        "coordinates": [
+            416,
+            1767,
+            2894,
+            2432
+        ]
+    },
+    {
+        "page_id": 99,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p99_img3_0.jpg",
+        "coordinates": [
+            416,
+            2859,
+            2891,
+            3669
+        ]
+    },
+    {
+        "page_id": 100,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p100_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 100,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p100_img1_0.jpg",
+        "coordinates": [
+            470,
+            641,
+            2841,
+            1416
+        ]
+    },
+    {
+        "page_id": 101,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p101_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 101,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p101_img1_0.jpg",
+        "coordinates": [
+            1049,
+            803,
+            2257,
+            1319
+        ]
+    },
+    {
+        "page_id": 101,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p101_img2_0.jpg",
+        "coordinates": [
+            916,
+            1504,
+            1040,
+            1616
+        ]
+    },
+    {
+        "page_id": 101,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p101_img3_0.jpg",
+        "coordinates": [
+            408,
+            1665,
+            2916,
+            2376
+        ]
+    },
+    {
+        "page_id": 102,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p102_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 102,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p102_img1_0.jpg",
+        "coordinates": [
+            420,
+            632,
+            2885,
+            2483
+        ]
+    },
+    {
+        "page_id": 103,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p103_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 103,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p103_img1_0.jpg",
+        "coordinates": [
+            1049,
+            650,
+            2257,
+            1166
+        ]
+    },
+    {
+        "page_id": 103,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p103_img2_0.jpg",
+        "coordinates": [
+            916,
+            1351,
+            1024,
+            1447
+        ]
+    },
+    {
+        "page_id": 103,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p103_img3_0.jpg",
+        "coordinates": [
+            408,
+            1496,
+            2916,
+            2207
+        ]
+    },
+    {
+        "page_id": 104,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p104_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 104,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p104_img1_0.jpg",
+        "coordinates": [
+            427,
+            632,
+            2880,
+            2470
+        ]
+    },
+    {
+        "page_id": 105,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p105_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 105,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p105_img1_0.jpg",
+        "coordinates": [
+            1045,
+            803,
+            2261,
+            1311
+        ]
+    },
+    {
+        "page_id": 105,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p105_img2_0.jpg",
+        "coordinates": [
+            408,
+            1737,
+            2916,
+            2551
+        ]
+    },
+    {
+        "page_id": 106,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p106_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 107,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p107_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 107,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p107_img1_0.jpg",
+        "coordinates": [
+            1049,
+            803,
+            2261,
+            1327
+        ]
+    },
+    {
+        "page_id": 107,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p107_img2_0.jpg",
+        "coordinates": [
+            1738,
+            1512,
+            1842,
+            1620
+        ]
+    },
+    {
+        "page_id": 107,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p107_img3_0.jpg",
+        "coordinates": [
+            408,
+            1670,
+            2916,
+            2442
+        ]
+    },
+    {
+        "page_id": 108,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p108_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 108,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p108_img1_0.jpg",
+        "coordinates": [
+            408,
+            641,
+            2916,
+            1918
+        ]
+    },
+    {
+        "page_id": 108,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p108_img2_0.jpg",
+        "coordinates": [
+            408,
+            2342,
+            2916,
+            3619
+        ]
+    },
+    {
+        "page_id": 109,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p109_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 109,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p109_img1_0.jpg",
+        "coordinates": [
+            1049,
+            803,
+            2261,
+            1327
+        ]
+    },
+    {
+        "page_id": 109,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p109_img2_0.jpg",
+        "coordinates": [
+            408,
+            1753,
+            2916,
+            2520
+        ]
+    },
+    {
+        "page_id": 110,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p110_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 110,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p110_img1_0.jpg",
+        "coordinates": [
+            408,
+            641,
+            2916,
+            1844
+        ]
+    },
+    {
+        "page_id": 111,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p111_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 111,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p111_img1_0.jpg",
+        "coordinates": [
+            1049,
+            803,
+            2261,
+            1327
+        ]
+    },
+    {
+        "page_id": 111,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p111_img2_0.jpg",
+        "coordinates": [
+            503,
+            1637,
+            2803,
+            2368
+        ]
+    },
+    {
+        "page_id": 111,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p111_img3_0.jpg",
+        "coordinates": [
+            528,
+            2679,
+            2782,
+            3524
+        ]
+    },
+    {
+        "page_id": 112,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p112_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 112,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p112_img1_0.jpg",
+        "coordinates": [
+            445,
+            1130,
+            2865,
+            1809
+        ]
+    },
+    {
+        "page_id": 112,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p112_img2_0.jpg",
+        "coordinates": [
+            408,
+            2230,
+            2916,
+            3149
+        ]
+    },
+    {
+        "page_id": 113,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p113_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 113,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p113_img1_0.jpg",
+        "coordinates": [
+            408,
+            641,
+            2899,
+            1543
+        ]
+    },
+    {
+        "page_id": 113,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p113_img2_0.jpg",
+        "coordinates": [
+            416,
+            2137,
+            2887,
+            2897
+        ]
+    },
+    {
+        "page_id": 114,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p114_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 114,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p114_img1_0.jpg",
+        "coordinates": [
+            412,
+            641,
+            2899,
+            1921
+        ]
+    },
+    {
+        "page_id": 115,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p115_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 115,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p115_img1_0.jpg",
+        "coordinates": [
+            408,
+            803,
+            2916,
+            1567
+        ]
+    },
+    {
+        "page_id": 115,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p115_img2_0.jpg",
+        "coordinates": [
+            689,
+            1754,
+            797,
+            1849
+        ]
+    },
+    {
+        "page_id": 115,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p115_img3_0.jpg",
+        "coordinates": [
+            408,
+            1898,
+            2916,
+            2667
+        ]
+    },
+    {
+        "page_id": 116,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p116_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 116,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p116_img1_0.jpg",
+        "coordinates": [
+            408,
+            641,
+            2916,
+            3470
+        ]
+    },
+    {
+        "page_id": 117,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p117_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 117,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p117_img1_0.jpg",
+        "coordinates": [
+            987,
+            986,
+            2324,
+            1490
+        ]
+    },
+    {
+        "page_id": 117,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p117_img2_0.jpg",
+        "coordinates": [
+            408,
+            1796,
+            2898,
+            2554
+        ]
+    },
+    {
+        "page_id": 118,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p118_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 118,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p118_img1_0.jpg",
+        "coordinates": [
+            412,
+            524,
+            2899,
+            1901
+        ]
+    },
+    {
+        "page_id": 118,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p118_img2_0.jpg",
+        "coordinates": [
+            1692,
+            2084,
+            1825,
+            2200
+        ]
+    },
+    {
+        "page_id": 118,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p118_img3_0.jpg",
+        "coordinates": [
+            416,
+            2250,
+            2888,
+            3618
+        ]
+    },
+    {
+        "page_id": 119,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p119_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 119,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p119_img1_0.jpg",
+        "coordinates": [
+            566,
+            524,
+            2745,
+            2003
+        ]
+    },
+    {
+        "page_id": 119,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p119_img2_0.jpg",
+        "coordinates": [
+            566,
+            2309,
+            2745,
+            3787
+        ]
+    },
+    {
+        "page_id": 120,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p120_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 120,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p120_img1_0.jpg",
+        "coordinates": [
+            408,
+            524,
+            2916,
+            1571
+        ]
+    },
+    {
+        "page_id": 121,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p121_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 121,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p121_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1559
+        ]
+    },
+    {
+        "page_id": 121,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p121_img2_0.jpg",
+        "coordinates": [
+            416,
+            1867,
+            2891,
+            2838
+        ]
+    },
+    {
+        "page_id": 121,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p121_img3_0.jpg",
+        "coordinates": [
+            408,
+            3143,
+            2916,
+            3787
+        ]
+    },
+    {
+        "page_id": 122,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p122_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 122,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p122_img1_0.jpg",
+        "coordinates": [
+            578,
+            524,
+            2728,
+            1497
+        ]
+    },
+    {
+        "page_id": 122,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p122_img2_0.jpg",
+        "coordinates": [
+            412,
+            1809,
+            2891,
+            2938
+        ]
+    },
+    {
+        "page_id": 123,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p123_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 123,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p123_img1_0.jpg",
+        "coordinates": [
+            416,
+            524,
+            2895,
+            1157
+        ]
+    },
+    {
+        "page_id": 123,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p123_img2_0.jpg",
+        "coordinates": [
+            412,
+            1637,
+            2899,
+            2272
+        ]
+    },
+    {
+        "page_id": 124,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p124_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 124,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p124_img1_0.jpg",
+        "coordinates": [
+            416,
+            757,
+            2891,
+            1363
+        ]
+    },
+    {
+        "page_id": 124,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p124_img2_0.jpg",
+        "coordinates": [
+            416,
+            1729,
+            2891,
+            2334
+        ]
+    },
+    {
+        "page_id": 124,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p124_img3_0.jpg",
+        "coordinates": [
+            408,
+            2763,
+            2916,
+            3356
+        ]
+    },
+    {
+        "page_id": 125,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p125_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 125,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p125_img1_0.jpg",
+        "coordinates": [
+            408,
+            524,
+            2898,
+            961
+        ]
+    },
+    {
+        "page_id": 125,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p125_img2_0.jpg",
+        "coordinates": [
+            416,
+            1267,
+            2891,
+            2193
+        ]
+    },
+    {
+        "page_id": 125,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p125_img3_0.jpg",
+        "coordinates": [
+            408,
+            2501,
+            2899,
+            3431
+        ]
+    },
+    {
+        "page_id": 126,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p126_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 126,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p126_img1_0.jpg",
+        "coordinates": [
+            412,
+            757,
+            2895,
+            1906
+        ]
+    },
+    {
+        "page_id": 126,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p126_img2_0.jpg",
+        "coordinates": [
+            408,
+            2217,
+            2898,
+            3143
+        ]
+    },
+    {
+        "page_id": 127,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p127_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 127,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p127_img1_0.jpg",
+        "coordinates": [
+            408,
+            524,
+            2916,
+            953
+        ]
+    },
+    {
+        "page_id": 127,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p127_img2_0.jpg",
+        "coordinates": [
+            416,
+            1429,
+            2895,
+            2259
+        ]
+    },
+    {
+        "page_id": 127,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p127_img3_0.jpg",
+        "coordinates": [
+            416,
+            2571,
+            2895,
+            3331
+        ]
+    },
+    {
+        "page_id": 128,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p128_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 128,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p128_img1_0.jpg",
+        "coordinates": [
+            557,
+            641,
+            2753,
+            1334
+        ]
+    },
+    {
+        "page_id": 128,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p128_img2_0.jpg",
+        "coordinates": [
+            495,
+            1642,
+            2816,
+            2290
+        ]
+    },
+    {
+        "page_id": 128,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p128_img3_0.jpg",
+        "coordinates": [
+            653,
+            2717,
+            2658,
+            3909
+        ]
+    },
+    {
+        "page_id": 129,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p129_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 129,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p129_img1_0.jpg",
+        "coordinates": [
+            416,
+            641,
+            2891,
+            1624
+        ]
+    },
+    {
+        "page_id": 130,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p130_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 130,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p130_img1_0.jpg",
+        "coordinates": [
+            991,
+            803,
+            2320,
+            1323
+        ]
+    },
+    {
+        "page_id": 130,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p130_img2_0.jpg",
+        "coordinates": [
+            916,
+            1504,
+            1040,
+            1616
+        ]
+    },
+    {
+        "page_id": 130,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p130_img3_0.jpg",
+        "coordinates": [
+            412,
+            1665,
+            2891,
+            2428
+        ]
+    },
+    {
+        "page_id": 131,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p131_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 131,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p131_img1_0.jpg",
+        "coordinates": [
+            412,
+            641,
+            2891,
+            2310
+        ]
+    },
+    {
+        "page_id": 132,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p132_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 132,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p132_img1_0.jpg",
+        "coordinates": [
+            991,
+            650,
+            2320,
+            1171
+        ]
+    },
+    {
+        "page_id": 132,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p132_img2_0.jpg",
+        "coordinates": [
+            916,
+            1351,
+            1024,
+            1447
+        ]
+    },
+    {
+        "page_id": 132,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p132_img3_0.jpg",
+        "coordinates": [
+            412,
+            1496,
+            2891,
+            2259
+        ]
+    },
+    {
+        "page_id": 133,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p133_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 133,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p133_img1_0.jpg",
+        "coordinates": [
+            412,
+            641,
+            2898,
+            2405
+        ]
+    },
+    {
+        "page_id": 134,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p134_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 134,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p134_img1_0.jpg",
+        "coordinates": [
+            1012,
+            803,
+            2299,
+            1336
+        ]
+    },
+    {
+        "page_id": 134,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p134_img2_0.jpg",
+        "coordinates": [
+            507,
+            1762,
+            2801,
+            2863
+        ]
+    },
+    {
+        "page_id": 135,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p135_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 135,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p135_img1_0.jpg",
+        "coordinates": [
+            991,
+            803,
+            2320,
+            1323
+        ]
+    },
+    {
+        "page_id": 135,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p135_img2_0.jpg",
+        "coordinates": [
+            1738,
+            1504,
+            1842,
+            1612
+        ]
+    },
+    {
+        "page_id": 135,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p135_img3_0.jpg",
+        "coordinates": [
+            408,
+            1661,
+            2916,
+            2387
+        ]
+    },
+    {
+        "page_id": 136,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p136_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 136,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p136_img1_0.jpg",
+        "coordinates": [
+            503,
+            641,
+            2803,
+            1878
+        ]
+    },
+    {
+        "page_id": 136,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p136_img2_0.jpg",
+        "coordinates": [
+            503,
+            2300,
+            2801,
+            3536
+        ]
+    },
+    {
+        "page_id": 137,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p137_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 137,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p137_img1_0.jpg",
+        "coordinates": [
+            991,
+            803,
+            2320,
+            1323
+        ]
+    },
+    {
+        "page_id": 137,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p137_img2_0.jpg",
+        "coordinates": [
+            408,
+            1745,
+            2916,
+            2517
+        ]
+    },
+    {
+        "page_id": 138,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p138_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 138,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p138_img1_0.jpg",
+        "coordinates": [
+            412,
+            641,
+            2899,
+            1688
+        ]
+    },
+    {
+        "page_id": 139,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p139_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 139,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p139_img1_0.jpg",
+        "coordinates": [
+            991,
+            803,
+            2320,
+            1323
+        ]
+    },
+    {
+        "page_id": 139,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p139_img2_0.jpg",
+        "coordinates": [
+            408,
+            1628,
+            2898,
+            2386
+        ]
+    },
+    {
+        "page_id": 139,
+        "image_id": "3_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p139_img3_0.jpg",
+        "coordinates": [
+            528,
+            2696,
+            2782,
+            3541
+        ]
+    },
+    {
+        "page_id": 140,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p140_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 140,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p140_img1_0.jpg",
+        "coordinates": [
+            445,
+            1130,
+            2865,
+            1809
+        ]
+    },
+    {
+        "page_id": 140,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p140_img2_0.jpg",
+        "coordinates": [
+            412,
+            2230,
+            2895,
+            3140
+        ]
+    },
+    {
+        "page_id": 141,
+        "image_id": "0_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p141_img0_0.jpg",
+        "coordinates": [
+            2171,
+            78,
+            2912,
+            320
+        ]
+    },
+    {
+        "page_id": 141,
+        "image_id": "1_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p141_img1_0.jpg",
+        "coordinates": [
+            416,
+            641,
+            2891,
+            1538
+        ]
+    },
+    {
+        "page_id": 141,
+        "image_id": "2_0",
+        "file_path": "/Users/pare.s/hallu_detector/hallucination-detector/data-test-open_150/img-havy/manual/Raw/prep_manual-4/extracted_images/p141_img2_0.jpg",
+        "coordinates": [
+            412,
+            2137,
+            2894,
+            2829
+        ]
+    }
+]
