@@ -66,22 +66,22 @@ The data flow from raw input to the final audit report:
 ```
 ### Processing Steps:
 
-- **Step 1: Image Masking (`01_pdf_clean_img.py`)**
+- **Step 1: Image Masking (`pdf_clean_img.py`)**
   - **Function:** Reads the raw PDF, extracts image bounding boxes (metadata), and visually masks images with white space to prevent non-textual noise from interfering with OCR.
   - **Input:** Raw PDF file.
   - **Output:** `cleaned_pages_for_ocr/` folder (masked page images) and `extracted_images_metadata.json` (extracted image data).
 
-- **Step 2: Ground Truth Generation (`02_run_google_ocr.py`)**
+- **Step 2: Ground Truth Generation (`run_google_ocr.py`)**
   - **Function:** Generates Ground Truth by sending the masked images to Google Cloud Vision API to extract the highly accurate remaining text.
   - **Input:** Images from Step 1 (`cleaned_pages_for_ocr/`).
   - **Output:** `google_ocr.json` (text content organized page-by-page).
 
-- **Step 3: Markdown Parsing (`03_split_md_pages.py`)**
+- **Step 3: Markdown Parsing (`split_md_pages.py`)**
   - **Function:** Reads the converted Markdown file and splits the content page-by-page relying on HTML comments (e.g., `<!-- Page 1 -->`).
   - **Input:** Raw Markdown file.
   - **Output:** `<filename>_split_md.json` (page-by-page structure ready for OCR comparison).
 
-- **Step 4: Detection & Scoring (`04_detect_hallu_omiss.py`)**
+- **Step 4: Detection & Scoring (`detect_hallu_omiss.py`)**
   - **Function:** The core logic engine that compares and scores the data by processing outputs from Steps 1, 2, and 3.
   - **Input:** `google_ocr.json` (Ground Truth), `<filename>_split_md.json` (Markdown text), and `extracted_images_metadata.json` (image coordinates).
   - **Output:** `<filename>_final_report.json` specifying the evaluation status of each page (Pass, Fail, Review, Skipped).
